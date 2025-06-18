@@ -9,6 +9,18 @@
 
 <p align="center">A free and open-source SMS/Call bombing application</p>
 
+## Announcement
+
+**Important Notice:**  
+Due to a combination of low-quality contributions, spam pull requests/issues, and my shift towards exploring new projects, I’ve made the decision to archive this repository. This project has been one of my greatest side projects, and I am deeply grateful for all the support it received. However, maintaining it has become increasingly difficult (special thanks to [@0n1cOn3](https://github.com/0n1cOn3) for handling spammy PRs), and I no longer have the capacity to continue contributing to it.
+
+The repository will remain usable via GitHub and PyPI, but I will not be adding new features or making updates. Thank you to everyone who has used and contributed to TBomb, and I wish you all the best.
+
+**The repository will be archived, and no further contributions will be accepted.**
+
+You can still install and use the tool via Git or PyPI, but please be aware that I will not be maintaining it moving forward.
+
+---
 ## NOTES:
 
 
